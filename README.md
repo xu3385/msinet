@@ -1,5 +1,5 @@
 
-# Multi-Scale Interaction Networkfor Stereo Image Super Resolution
+# Multi-Scale Interaction Network for Stereo Image Super Resolution
 
 MSTNet / MSINet — Stereo Image Super-Resolution (Quick Start)
 
